@@ -1,0 +1,6 @@
+ -- Added rows to the table by copying filepath --
+ COPY bank_churners
+ FROM 'C:\Users\Mico\Project 1 Bank Churners\BankChurners.csv'
+ DELIMITER ',' CSV HEADER;
+
+

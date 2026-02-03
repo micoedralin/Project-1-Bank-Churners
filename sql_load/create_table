@@ -1,0 +1,28 @@
+-- Created table bank_churners, included column names and their respective data types --
+CREATE TABLE bank_churners
+(
+    client_num INT PRIMARY KEY,
+    attrition_flag VARCHAR(30),
+    customer_age INT,
+    gender VARCHAR(10),
+    dependent_count INT,
+    educational_level VARCHAR(30),
+    marital_status VARCHAR(20),
+    income_category TEXT,
+    card_category VARCHAR (15),
+    months_on_book INT,
+    total_relationship_count INT,
+    months_inactive_12_mon INT,
+    contacts_count_12_mon INT,
+    credit_limit NUMERIC(12,2),
+    total_revolving_bal INT,
+    avg_open_to_buy NUMERIC(12,2),
+    total_amt_chng_q4_q1 NUMERIC(6,3),
+    total_trans_amt INT,
+    total_trans_ct INT,
+    total_ct_chng_q4_q1 NUMERIC(6,3),
+    avg_utilization_ratio NUMERIC(6,3)
+);
+
+-- Set ownership of the tables to the postgres user --
+ALTER TABLE public.bank_churners OWNER to postgres
