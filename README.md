@@ -10,6 +10,8 @@ A manager at the bank is disturbed with more and more customers leaving their cr
 
 - **Git & GitHub**: Used to store and track projects
 
+- **Power BI**: Turned my findings into charts to share and visualize the data to highlight my findings
+
 ## Analysis
 1) Existing customers, on average, had a higher credit limit (close to about $600 more) than attrited customers.
 
