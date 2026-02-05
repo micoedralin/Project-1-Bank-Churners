@@ -41,7 +41,16 @@ The analysis highlights clear behavioral and financial differences between exist
 
 In contrast, attrited customers tend to have lower engagement and interact with customer service more frequently, which may reflect unresolved issues or dissatisfaction in the service. This increased level of contact appears to be a strong indicator of churn risk.
 
-The dataset provided could have also included the dates where attrited customers decided to end service, this could provide key insights incase a certain event or occurence in a particular month or day could have caused customers to end their service.
-
 Overall, the findings indicate that customer retention is closely tied to product usage, perceived value, and service experience. By identifying customers with low utilization, fewer products, and higher customer service interactions, the company can take proactive steps to address concerns, improve engagement, and reduce attrition.
 
+# Recommendation
+ 
+ The biggest indicator according to the data gathered when it comes to predicting churn risk is revolving credit card balance as well as credit utilization ratio, these two factors are directly related and are key indicators.
+
+ It is recommended that the bank find ways to engage customers more frequently in its products such as increasing credit limits, incentivising larger transactions, and other creative promotions.
+ 
+ It is also recommended that the bank find ways to improve customer service calls such as reducing call times, having 24/7 support, and access to personalize support.
+
+ The bank could also come up with dates where attrited customers decided to end service, this could provide key insights incase a certain event or occurence in a particular month or day could have caused customers to end their service.
+
+ Overall, addressing these key risk indicators will prove valuable in terms of retaining and restoring relations with current and previous customers. By applying some of the methods provided as well as coming up with robust solutions, this will result in a sustainable and long-term relationship between the bank and its customers.
